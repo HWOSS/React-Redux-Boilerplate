@@ -1,3 +1,3 @@
-/**
- * Created by patrickmarabeas on 1/06/2016.
- */
+
+'use strict';
+
